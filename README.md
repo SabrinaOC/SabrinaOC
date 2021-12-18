@@ -10,3 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaOC)](https://github.com/SabrinaOC/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaOC&show_icons=true&theme=radical)
+
+
