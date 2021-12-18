@@ -8,7 +8,10 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sabrinaojeachapelet/">LinkedIn</a>
 - ⚡ Fun fact: ... me!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaOC)](https://github.com/SabrinaOC/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaOC&theme=tokyonight)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaOC&show_icons=true&theme=radical)
 
