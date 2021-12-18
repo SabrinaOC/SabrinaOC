@@ -16,3 +16,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaOC&show_icons=true&theme=radical)
 
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
