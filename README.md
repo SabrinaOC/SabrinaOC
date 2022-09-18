@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabrinaOC](https://github.com/SabrinaOC)
 
-- 💬 Ask me about **javascript, java, html**
+- 💬 Ask me about **javascript, java, html, typescript, Angular, Ionic**
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/sabrinaojeachapelet/">LinkedIn</a>**
 
